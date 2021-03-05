@@ -7,7 +7,7 @@ Toolset that generates the reference postcode list.
 
 1.  An up-to-date FIAS version is required for the tool to work.  
     It should be loaded to an SQL database. Connection credentials are
-    saved in [library/sql_connection.py](library/sql_connection.py)
+    saved in [library/sql_connection.py](library/fias_sql_connection.py)
 
 2.  An up-to-date ESOPS database (.dbf) is required to. ESOPS filename
     is configured in [verify_hopeless.py](verify_hopeless.py)
