@@ -3,9 +3,6 @@ __pycache__
 venv
 
 # Data
-*.csv
-data
-output
 
 # MacOS
 .DS_Store
